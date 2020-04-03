@@ -20,3 +20,5 @@ Heka files and SigmaPlot Notebook to calculate absolute open propabilities
 ### [Supplemental](../master/Supplemental)
 #### [SDS-Page](../master/Supplemental/SDS-Page)  
 Images of Gels and SigmaPlot Notebook to estimate total EAAT2 protein amount
+#### [transfectionrate](../master/Supplemental/transfectionrate)  
+Confocal images and SigmaPlot Notebook to estimate transfection rates
