@@ -1,6 +1,0 @@
-cd EAAT2-mutation-affecting-anion-currents/  #Mo 6. Apr 10:23:00 CEST 2020
-git commit -a --allow-empty-message -m ""  #Mo 6. Apr 10:23:09 CEST 2020
-git push  #Mo 6. Apr 10:23:36 CEST 2020
-git add  #Mo 6. Apr 10:24:10 CEST 2020
-git add Fig2 README.md Supplemental  #Mo 6. Apr 10:24:18 CEST 2020
-git add .  #Mo 6. Apr 10:24:24 CEST 2020
