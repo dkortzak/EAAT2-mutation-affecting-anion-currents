@@ -18,7 +18,7 @@ Heka files and SigmaPlot Notebook for paired-pulse recovery experiments to gener
 Heka files and SigmaPlot Notebook to calculate absolute open propabilities and generate plots shown in Figure 6.  
 
 ### [Supplemental](../master/Supplemental)
-#### [SDS-Page](../master/Supplemental/SDS-Page)  
+#### [SDS-PAGE](../master/Supplemental/SDS-PAGE)  
 Images of Gels and SigmaPlot Notebook to estimate total EAAT2 protein amount.
 #### [transfectionrate](../master/Supplemental/transfectionrate)  
 Confocal images and SigmaPlot Notebook to estimate transfection rates.
